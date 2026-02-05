@@ -1,1 +1,0 @@
-1. Markdown, Jinja2, Makefile, SASS, CSS and HTML.

@@ -1,0 +1,5 @@
+1.
+
+2. It is complied on the users side, which hurts performance and time efficiency due to added overhead.
+
+3. Lisp support macros, which is executed at compile time, meaning the implementations need to compile the macro during compile time.

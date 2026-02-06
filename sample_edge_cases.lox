@@ -1,0 +1,12 @@
+// Sample Lox Programs and Edge Cases
+// Truthness and Equality
+print false == false;
+print false == nil;
+print nil == nil;
+print 0 == false;
+print "1" == 1;
+
+// Short-circuit behavior
+var a = false;
+a and (a = true);
+print a;

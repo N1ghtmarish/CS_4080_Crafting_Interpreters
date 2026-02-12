@@ -1,0 +1,11 @@
+1. The synatx of Python and Haskall do not use traditional tokens to determine the language. 
+   They use indentation, which can not be represented through finite automata, thus it is not 
+   a regular language.
+
+2. In CoffeeScript, whitespace can affect where the arguments of a function starts and ends.
+   In Ruby, the space differentiates between an arithematic expression and a function call.
+   In the C preprocessor, spaces can help define macro expansions during the preprocessing.
+
+3. Similar to JavaDocs, spaces and comments might be used for documentation of the program and 
+   can be used to describe to program to any viewers. It is important that the scanner can 
+   detect these comments so they can be used later for documentation.

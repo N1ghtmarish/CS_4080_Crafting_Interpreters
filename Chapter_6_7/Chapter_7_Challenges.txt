@@ -1,4 +1,7 @@
-1. Although it is not two different types, there could be comparing numbers, since it would be useful comparing the ASCII values of strings. But otherwise, I do not see the   purpose of comparing something like an int to a string, 3 < "pancake" would be solving what problem? If comparing their ASCII was the goal, then converting 3 to a String would be sufficient but I do not see the purpose of comparing the number 3 with the string "pancake". This is consistent with other languages like Java and C where you can compare two different strings but not a string and a number.
+1. Although it is not two different types, there could be comparing numbers, since it would be useful comparing the ASCII values of strings. 
+But otherwise, I do not see the   purpose of comparing something like an int to a string, 3 < "pancake" would be solving what problem? 
+If comparing their ASCII was the goal, then converting 3 to a String would be sufficient but I do not see the purpose of comparing the number 3 with the string "pancake".
+This is consistent with other languages like Java and C where you can compare two different strings but not a string and a number.
 
 
 2.

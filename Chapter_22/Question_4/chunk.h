@@ -1,0 +1,1 @@
+// Added OP_GET_LOCAL_LONG and OP_SET_LOCAL_LONG
